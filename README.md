@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<!--
-**sooo03/sooo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm studying Web and Data Structure Now.
+Interested in Python, AI
+Take a look at the community I created: Covid-19
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
