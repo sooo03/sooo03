@@ -9,13 +9,13 @@
     <p>Interested in <strong>Python</strong>, <strong>AI</strong></p>
     <p>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></p>
   </body>
-  <lit>- 🔭 I’m currently working on ...</lit>
-  <lit>- 🌱 I’m currently learning ...</lit>
-  <lit>- 👯 I’m looking to collaborate on ...</lit>
-  <lit>- 🤔 I’m looking for help with ...</lit>
-  <lit>- 💬 Ask me about ...</lit>
-  <lit>- 📫 How to reach me: ...</lit>
-  <lit>- 😄 Pronouns: ...</lit>
-  <lit>- ⚡ Fun fact: ...</lit>
-  <lit>--></lit>
+  <p>- 🔭 I’m currently working on ...</p>
+  <p>- 🌱 I’m currently learning ...</p>
+  <p>- 👯 I’m looking to collaborate on ...</p>
+  <p>- 🤔 I’m looking for help with ...</p>
+  <p>- 💬 Ask me about ...</p>
+  <p>- 📫 How to reach me: ...</p>
+  <p>- 😄 Pronouns: ...</p>
+  <p>- ⚡ Fun fact: ...</p>
+  <p>--></p>
 </html>
