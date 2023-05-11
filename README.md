@@ -4,8 +4,8 @@
     <meta charset="utf-8">
   </head>
   
-  ### Hi there 👋
-  <p>I'm studying <strong>Web</storng> and <strong>Data Structure</strong> Now.</p>
+  <h1>### Hi there 👋</h1>
+  <p>I'm studying <strong>Web</strong> and <strong>Data Structure</strong> Now.</p>
   <p>Interested in Python, AI</p>
   <p>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></p>
   
