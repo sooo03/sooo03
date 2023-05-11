@@ -6,7 +6,7 @@
   <body>
     <h1>Hi there 👋</h1>
     <p>I'm studying <strong>Web</strong> and <strong>Data Structure</strong> Now.</p>
-    <p>Interested in Python, AI</p>
+    <p>Interested in <strong>Python</strong>, <strong>AI</strong></p>
     <p>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></p>
   </body>
   - 🔭 I’m currently working on ...
