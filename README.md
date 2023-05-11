@@ -5,9 +5,9 @@
   </head>
   
   ### Hi there 👋
-  <pr>I'm studying <strong>Web</storng> and <strong>Data Structure</strong> Now.</pr>
-  <pr>Interested in Python, AI</pr>
-  <pr>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></pr>
+  <p>I'm studying <strong>Web</storng> and <strong>Data Structure</strong> Now.</p>
+  <p>Interested in Python, AI</p>
+  <p>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></p>
   
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
