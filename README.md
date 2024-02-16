@@ -1,13 +1,19 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
-    <h1>Hi there 👋</h1>
-    <p>I'm studying <strong>AI</strong> and <strong>Data Structure</strong> Now.</p>
-    <p>And I'm doing a team project, making a web site.</p>
-    <p>Interested in <strong>Python</strong>, <strong>AI</strong></p>
-    <p>Take a look at the community I created: <a href="https://github.com/sooo03/Covid-19">Covid-19</a></p>
-  </body>
-</html>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sooo03.sooo03" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=안녕하세요!+👋;+초보개발자+입니다!;" />
+</h1>
+
+<div align="center">
+  🔭 I’m a junior in **HUFS** majoring in **Computer Science**
+ 
+ 🌱 I’m currently learning **NLP**
+
+💬 Ask me about anything **[here](https://github.com/sooo03?tab=repositories)**
+
+</div>
+
+<div align="center">
+  <a href="mailto:kimsojeong71@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
