@@ -35,8 +35,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-sooo03.vercel.app/?user=sooo03&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-sooo03.vercel.app/api?username=sooo03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sooo03&theme=tokyonight)
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=sooo03&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+  </a>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-sooo03.vercel.app/api/top-langs/?username=sooo03&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
