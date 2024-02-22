@@ -35,12 +35,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sooo03&theme=tokyonight)
-  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sooo03&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
   </a>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sooo03.vercel.app/api/top-langs/?username=sooo03&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="50%" > 
 </div>
 <br/><br/>
 
