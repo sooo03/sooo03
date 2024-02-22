@@ -8,6 +8,8 @@
   
   🔭 I’m a junior in **HUFS** majoring in **Computer Science**
   
+  🐣 I'm interested in **Computer Vision**.
+  
   🌱 I’m currently learning **NLP**
 
 💬 Ask me about anything **[here](https://github.com/sooo03?tab=repositories)**
