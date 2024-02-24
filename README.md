@@ -39,8 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooo03&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="50%" > 
-  </a>
 </div>
 <br/><br/>
 
