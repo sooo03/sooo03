@@ -10,7 +10,7 @@
   
   🐣 I'm interested in **Computer Vision**.
   
-  🌱 I’m currently learning **NLP**
+  🌱 I’m currently learning **CV & DL**
 
 💬 Ask me about anything **[here](https://github.com/sooo03?tab=repositories)**
 
