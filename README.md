@@ -14,6 +14,8 @@
 
 💬 Ask me about anything **[here](https://github.com/sooo03?tab=repositories)**
 
+  Project that I'm doing right now https://github.com/hufs-hexagon-talent
+
 </div>
 
 <div align="center">
